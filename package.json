@@ -1,12 +1,12 @@
 {
-  "name": "men",
+  "name": "MEN-App",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index",
     "dev": "nodemon index"
   },
-  "author": "",
+  "author": "Vadim Zhukov zhukov.vd.s@gmail.com",
   "license": "ISC",
   "description": "",
   "dependencies": {
