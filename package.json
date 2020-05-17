@@ -6,7 +6,7 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "author": "Vadim Zhukov zhukov.vd.s@gmail.com",
+  "author": "Vadim Zhukov <zhukov.vd.s@gmail.com>",
   "license": "ISC",
   "description": "",
   "dependencies": {
